@@ -3,7 +3,7 @@
 
 ### 🔹 Вариант 1: Готовый EXE (для пользователей)
 
-1. Скачайте `EXE_Stalker.exe` из [Releases](https://github.com/MegaNoob24875/EXE-Stalker/releases)
+1. Скачайте `EXE_Stalker.exe` из [Releases](https://github.com/MegaNoob24875/exeStalker/releases)
 
 > ⚠️ **Внимание:** Без прав администратора мониторинг будет работать неполноценно!
 
